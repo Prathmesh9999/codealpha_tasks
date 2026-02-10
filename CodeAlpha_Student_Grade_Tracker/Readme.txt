@@ -114,6 +114,4 @@ java -cp out com.app.StudentGradeTrackerMain
 
 ---
 
-## 👨‍💻 Author
 
-Developed as a learning project to practice **Java OOP system design and student data management**.
